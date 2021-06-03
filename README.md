@@ -62,4 +62,9 @@
  * Changed: UI of "User Tools" & "Company-Settings".
  * Fixed: Important bugs.
 
+<h3> Output</h3>
+![emp](https://user-images.githubusercontent.com/71522972/120610539-e8707f00-c470-11eb-8f6a-96019d126d48.png)
+![emp1](https://user-images.githubusercontent.com/71522972/120610552-ec040600-c470-11eb-8fca-fec901a0ddb6.png)
+![emp2](https://user-images.githubusercontent.com/71522972/120610571-eefef680-c470-11eb-8c81-e30cda92ae42.png)
+![result](https://user-images.githubusercontent.com/71522972/120610578-f1f9e700-c470-11eb-933d-325be57bfda2.png)
 
